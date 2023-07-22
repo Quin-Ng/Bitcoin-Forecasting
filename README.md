@@ -1,2 +1,1 @@
-# Bitcoin-Forecasting
-Forecasting Bitcoin Price using ARIMA, LSTM, Facebook Prophet
+# Forecasting Bitcoin Price using ARIMA, LSTM, Facebook Prophet
